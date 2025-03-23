@@ -21,8 +21,8 @@ All Designs.fig — основной Figma-файл со всеми макета
 
 Вот некоторые из макетов, представленных в проекте:
 
-![📌SportsToAnyone](https://github.com/11qfour/Canteen/tree/main/media/SportsToAnyone.png)
-![📌Прототип сайта](https://github.com/11qfour/Canteen/tree/main/media/Prototype.png)
+![📌SportsToAnyone](https://github.com/11qfour/FigmasDesigns/tree/main/media/SportsToAnyone.png)
+![📌Прототип сайта](https://github.com/11qfour/FigmasDesigns/tree/main/media/Prototype.png)
 
 ---
 
